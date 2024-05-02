@@ -1,4 +1,4 @@
-// 2. Do the below programs in arrow functions.
+// 2. Do the below programs in arrow functions
 // b. Convert all the strings to title caps in a string array
 
 var str = "my Name is : Bala";

@@ -1,4 +1,4 @@
-//Do the below programs in anonymous function & IIFE
+//Do the below programs in anonymous function & IIFE.
 //Sum of all numbers in an array
 
 var arr = [1, 2, 3, 4, 5, 20];

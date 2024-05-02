@@ -1,4 +1,4 @@
-// 1. Do the below programs in anonymous function & IIFE
+// 1. Do the below programs in anonymous function & IIFE.
 // b. Convert all the strings to title caps in a string array
 
 var str = "my Name is : Bala";
